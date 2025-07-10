@@ -1,4 +1,7 @@
-package MiniProjects.LibraryManagement;
+package MiniProjects.LibraryManagement.Repository;
+
+import MiniProjects.LibraryManagement.Service.DbConnection;
+import MiniProjects.LibraryManagement.Entity.Account;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

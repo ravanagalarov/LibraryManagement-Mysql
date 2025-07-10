@@ -1,4 +1,4 @@
-package MiniProjects.LibraryManagement;
+package MiniProjects.LibraryManagement.Entity;
 
 public class Book {
     int id;

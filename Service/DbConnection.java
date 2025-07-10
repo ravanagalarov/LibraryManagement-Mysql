@@ -1,4 +1,4 @@
-package MiniProjects.LibraryManagement;
+package MiniProjects.LibraryManagement.Service;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

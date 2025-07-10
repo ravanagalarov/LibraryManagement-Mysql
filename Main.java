@@ -1,5 +1,9 @@
 package MiniProjects.LibraryManagement;
 
+import MiniProjects.LibraryManagement.Entity.Account;
+import MiniProjects.LibraryManagement.Repository.CRUD;
+import MiniProjects.LibraryManagement.Repository.UserOperations;
+
 import java.util.Scanner;
 
 public class Main {
